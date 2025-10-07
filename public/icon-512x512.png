@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="85" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ec4899"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <!-- Heart icon representing health -->
+  <path d="M256 400c-12 0-23-5-31-15C188 342 85 235 85 171c0-48 37-85 85-85 27 0 51 13 67 35 16-22 40-35 67-35 48 0 85 37 85 85 0 64-103 171-140 214-8 10-19 15-31 15z" fill="white"/>
+  <!-- Dumbbell icon representing fitness -->
+  <rect x="160" y="227" width="192" height="21" rx="10" fill="white"/>
+  <rect x="147" y="213" width="27" height="48" rx="13" fill="white"/>
+  <rect x="338" y="213" width="27" height="48" rx="13" fill="white"/>
+  <!-- Sparkle effects -->
+  <circle cx="373" cy="133" r="8" fill="white" opacity="0.8"/>
+  <circle cx="413" cy="173" r="5" fill="white" opacity="0.6"/>
+  <circle cx="120" cy="120" r="7" fill="white" opacity="0.7"/>
+  <circle cx="90" cy="160" r="4" fill="white" opacity="0.5"/>
+</svg>
